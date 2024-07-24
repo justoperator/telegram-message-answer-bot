@@ -30,7 +30,7 @@ This Telegram bot allows you to create a message-based assistant. It can respond
     ```
 
 3. **Configure Bot**:
-    - Open the `bot_code.py` file.
+    - Open the `main.py` file.
     - Replace `PASTE HERE YOUR API KEY` with your bot token.
     - Replace `PASTE HERE YOUR TELEGRAM ID` with your Telegram ID in the `admins` list.
 
